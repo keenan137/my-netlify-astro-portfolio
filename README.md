@@ -4,25 +4,23 @@
 
 ![astro-bento-portfolio | Bento-like Personal Porfolio Template](public/preview.png)
 
-To view a demo example, **[click here](https://sparkly-speculoos-0c9197.netlify.app/)**
-
-or my portfolio **[click here](https://gianmarco.xyz/)**
+To view a demo example, **[click here](https://master--silly-concha-ddcd81.netlify.app//)**
 
 ## Features
 
-- Modern and Minimal bento-like, sleek UI Design
-- All in one page (almost)
-- Fully Responsive
-- Performances and SEO optimizations
-- Ready to be deployed on [Netlify](https://www.netlify.com/)
-- Blog
-- RSS support (your-domain/rss.xml)
+-   Modern and Minimal bento-like, sleek UI Design
+-   All in one page (almost)
+-   Fully Responsive
+-   Performances and SEO optimizations
+-   Ready to be deployed on [Netlify](https://www.netlify.com/)
+-   Blog
+-   RSS support (your-domain/rss.xml)
 
 ## Tech Stack
 
-- [Astro](https://astro.build)
-- [unocss](https://unocss.dev/)
-- [motion](https://motion.dev/)
+-   [Astro](https://astro.build)
+-   [unocss](https://unocss.dev/)
+-   [motion](https://motion.dev/)
 
 # Steps ▶️
 
@@ -58,4 +56,4 @@ or
 
 ## Authors ❤️
 
-- Gianmarco - https://github.com/Ladvace
+-   Gianmarco - https://github.com/Ladvace
